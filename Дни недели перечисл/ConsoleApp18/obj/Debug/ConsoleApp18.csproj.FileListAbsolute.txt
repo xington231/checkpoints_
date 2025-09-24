@@ -6,3 +6,11 @@ C:\Users\degty\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csp
 C:\Users\degty\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe
 C:\Users\degty\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
 C:\Users\degty\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe.config
+E:\Study\c#\Дни недели перечисл\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+E:\Study\c#\Дни недели перечисл\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+E:\Study\c#\Дни недели перечисл\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+E:\Study\c#\Дни недели перечисл\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.AssemblyReference.cache
+E:\Study\c#\Дни недели перечисл\ConsoleApp18\obj\Debug\ConsoleApp18.exe.config
+E:\Study\c#\Дни недели перечисл\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+E:\Study\c#\Дни недели перечисл\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+E:\Study\c#\Дни недели перечисл\ConsoleApp18\obj\Debug\ConsoleApp18.pdb

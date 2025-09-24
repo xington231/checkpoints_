@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\degty\\source\\repos\\ConsoleApp19\\",
+  "WorkspaceRootPath": "E:\\Study\\c#\\\u0426\u0432\u0435\u0442\u0430 \u043F\u0435\u0440\u0435\u0447\u0438\u0441\u043B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBD881E2-46AD-45B8-8961-EB949D62F11A}|ConsoleApp19\\ConsoleApp19.csproj|c:\\users\\degty\\source\\repos\\consoleapp19\\consoleapp19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FBD881E2-46AD-45B8-8961-EB949D62F11A}|ConsoleApp19\\ConsoleApp19.csproj|e:\\study\\c#\\\u0446\u0432\u0435\u0442\u0430 \u043F\u0435\u0440\u0435\u0447\u0438\u0441\u043B\\consoleapp19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBD881E2-46AD-45B8-8961-EB949D62F11A}|ConsoleApp19\\ConsoleApp19.csproj|solutionrelative:consoleapp19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\degty\\source\\repos\\ConsoleApp19\\ConsoleApp19\\Program.cs",
+              "DocumentMoniker": "E:\\Study\\c#\\\u0426\u0432\u0435\u0442\u0430 \u043F\u0435\u0440\u0435\u0447\u0438\u0441\u043B\\ConsoleApp19\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp19\\Program.cs",
-              "ToolTip": "C:\\Users\\degty\\source\\repos\\ConsoleApp19\\ConsoleApp19\\Program.cs",
+              "ToolTip": "E:\\Study\\c#\\\u0426\u0432\u0435\u0442\u0430 \u043F\u0435\u0440\u0435\u0447\u0438\u0441\u043B\\ConsoleApp19\\Program.cs",
               "RelativeToolTip": "ConsoleApp19\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAkwC4AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T14:48:35.431Z",
               "EditorCaption": ""

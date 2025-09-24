@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\degty\\source\\repos\\ConsoleApp20\\",
+  "WorkspaceRootPath": "E:\\Study\\c#\\\u041E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u043F\u0435\u0440\u0435\u0447\u0438\u0441\u043B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E40AF292-A9E3-470E-81B1-1D11E08AC66F}|ConsoleApp20\\ConsoleApp20.csproj|c:\\users\\degty\\source\\repos\\consoleapp20\\consoleapp20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E40AF292-A9E3-470E-81B1-1D11E08AC66F}|ConsoleApp20\\ConsoleApp20.csproj|e:\\study\\c#\\\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u043F\u0435\u0440\u0435\u0447\u0438\u0441\u043B\\consoleapp20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E40AF292-A9E3-470E-81B1-1D11E08AC66F}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\degty\\source\\repos\\ConsoleApp20\\ConsoleApp20\\Program.cs",
+              "DocumentMoniker": "E:\\Study\\c#\\\u041E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u043F\u0435\u0440\u0435\u0447\u0438\u0441\u043B\\ConsoleApp20\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp20\\Program.cs",
-              "ToolTip": "C:\\Users\\degty\\source\\repos\\ConsoleApp20\\ConsoleApp20\\Program.cs",
+              "ToolTip": "E:\\Study\\c#\\\u041E\u043F\u0435\u0440\u0430\u0446\u0438\u0438 \u043F\u0435\u0440\u0435\u0447\u0438\u0441\u043B\\ConsoleApp20\\Program.cs",
               "RelativeToolTip": "ConsoleApp20\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwBEAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwC0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T15:18:03.835Z",
               "EditorCaption": ""

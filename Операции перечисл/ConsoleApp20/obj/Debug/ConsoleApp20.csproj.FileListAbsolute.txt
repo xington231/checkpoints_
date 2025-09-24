@@ -5,3 +5,11 @@ C:\Users\degty\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe
 C:\Users\degty\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.pdb
 C:\Users\degty\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.exe
 C:\Users\degty\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.pdb
+E:\Study\c#\Операции перечисл\ConsoleApp20\bin\Debug\ConsoleApp20.exe.config
+E:\Study\c#\Операции перечисл\ConsoleApp20\bin\Debug\ConsoleApp20.exe
+E:\Study\c#\Операции перечисл\ConsoleApp20\bin\Debug\ConsoleApp20.pdb
+E:\Study\c#\Операции перечисл\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.AssemblyReference.cache
+E:\Study\c#\Операции перечисл\ConsoleApp20\obj\Debug\ConsoleApp20.exe.config
+E:\Study\c#\Операции перечисл\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.CoreCompileInputs.cache
+E:\Study\c#\Операции перечисл\ConsoleApp20\obj\Debug\ConsoleApp20.exe
+E:\Study\c#\Операции перечисл\ConsoleApp20\obj\Debug\ConsoleApp20.pdb
