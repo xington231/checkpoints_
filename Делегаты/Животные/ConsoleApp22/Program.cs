@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static ConsoleApp22.Program;
 
 namespace ConsoleApp22
 {
@@ -36,14 +37,22 @@ namespace ConsoleApp22
                 Console.WriteLine($"Привет,я кошка! Меня зовут {Name}!");
             }
         }
-        static void Animals(List<Animal> animals, Action<Animal> action)
+        static void ActionAnimals(List<Animal> animals, Action<Animal> action)
         {
             foreach (var animal in animals)
             {
                 action(animal);
             }
         }
-        delegate void AnimalAction(Animal a);
+        static void ActionAnimal(Animal animal)
+        {
+            Console.WriteLine(animal.Name);
+        }
+
+        static void ActionDog(Dog dog)
+        {
+            Console.WriteLine(dog.Name);
+        }
 
         static void Main(string[] args)
         {
@@ -57,7 +66,18 @@ namespace ConsoleApp22
                 new Cat("Мурка")
             };
 
-            Animals(animals, animal => animal.SayHello());
+            ActionAnimals(animals, animal => animal.SayHello());
+
+            //ковариантность,присваиваем список собак переменной,которой ожидает список животных
+            List<Dog> dogs = new List<Dog>
+            {
+                new Dog("Рэкс"),
+                new Dog("Арчи")
+            };
+            List<Animal> animals1 = new List<Animal>(dogs);
+            //контрвариантность,ActionAnimal принимает Animal, а actionDog ожидает Dog 
+            Action<Dog> actionDog = ActionAnimal;
+            actionDog(new Dog("Алекс"));
 
 
         }

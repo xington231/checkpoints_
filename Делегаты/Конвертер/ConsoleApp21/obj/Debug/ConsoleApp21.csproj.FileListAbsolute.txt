@@ -6,3 +6,11 @@ C:\Users\degty\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.csp
 C:\Users\degty\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.exe
 C:\Users\degty\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.pdb
 C:\Users\degty\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.exe.config
+E:\Study\c#\Делегаты\Конвертер\ConsoleApp21\bin\Debug\ConsoleApp21.exe.config
+E:\Study\c#\Делегаты\Конвертер\ConsoleApp21\bin\Debug\ConsoleApp21.exe
+E:\Study\c#\Делегаты\Конвертер\ConsoleApp21\bin\Debug\ConsoleApp21.pdb
+E:\Study\c#\Делегаты\Конвертер\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.AssemblyReference.cache
+E:\Study\c#\Делегаты\Конвертер\ConsoleApp21\obj\Debug\ConsoleApp21.exe.config
+E:\Study\c#\Делегаты\Конвертер\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.CoreCompileInputs.cache
+E:\Study\c#\Делегаты\Конвертер\ConsoleApp21\obj\Debug\ConsoleApp21.exe
+E:\Study\c#\Делегаты\Конвертер\ConsoleApp21\obj\Debug\ConsoleApp21.pdb

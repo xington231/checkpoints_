@@ -41,14 +41,23 @@ namespace ConsoleApp21
             Console.WriteLine(num);
 
             object object1 = "vbcbc";
-            ObjectToStringConverter ObjectToStringConverter = new ObjectToStringConverter();
-            string stroka1 = ObjectToStringConverter.Convert(object1);
+            ObjectToStringConverter objectToStringConverter = new ObjectToStringConverter();
+            string stroka1 = objectToStringConverter.Convert(object1);
             Console.WriteLine(stroka1);
 
             string[] stringNumbers = { "1", "2", "3", "4", "5" };
             int[] numbers1 = ConvertArr(stringNumbers, s => int.Parse(s));
             Console.WriteLine(string.Join(", ", numbers1));
 
+            // ковариантность, конвертер, возвращающий string, возвращает object
+            IConverter<object, string> stringConverter = new ObjectToStringConverter();
+            IConverter<object, object> objectConverter = stringConverter;
+
+            // контрвариантность,приводим IConverter<string, int> к IConverter<object, int>
+            IConverter<string, int> stringToInt = new StringToIntConverter();
+            IConverter<object, int> objectConverter1 = (IConverter<object, int>)stringToInt;
+
         }
+
     }
 }

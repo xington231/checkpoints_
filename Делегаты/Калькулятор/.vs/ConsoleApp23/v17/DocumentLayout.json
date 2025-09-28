@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\degty\\source\\repos\\ConsoleApp23\\",
+  "WorkspaceRootPath": "E:\\Study\\c#\\\u0414\u0435\u043B\u0435\u0433\u0430\u0442\u044B\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6084913-E168-472C-BBBA-6F85271F9D6F}|ConsoleApp23\\ConsoleApp23.csproj|c:\\users\\degty\\source\\repos\\consoleapp23\\consoleapp23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6084913-E168-472C-BBBA-6F85271F9D6F}|ConsoleApp23\\ConsoleApp23.csproj|e:\\study\\c#\\\u0434\u0435\u043B\u0435\u0433\u0430\u0442\u044B\\\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\consoleapp23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6084913-E168-472C-BBBA-6F85271F9D6F}|ConsoleApp23\\ConsoleApp23.csproj|solutionrelative:consoleapp23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\degty\\source\\repos\\ConsoleApp23\\ConsoleApp23\\Program.cs",
+              "DocumentMoniker": "E:\\Study\\c#\\\u0414\u0435\u043B\u0435\u0433\u0430\u0442\u044B\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\ConsoleApp23\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp23\\Program.cs",
-              "ToolTip": "C:\\Users\\degty\\source\\repos\\ConsoleApp23\\ConsoleApp23\\Program.cs",
+              "ToolTip": "E:\\Study\\c#\\\u0414\u0435\u043B\u0435\u0433\u0430\u0442\u044B\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\ConsoleApp23\\Program.cs",
               "RelativeToolTip": "ConsoleApp23\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwD0AAABXAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDoAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T17:52:13.83Z",
               "EditorCaption": ""

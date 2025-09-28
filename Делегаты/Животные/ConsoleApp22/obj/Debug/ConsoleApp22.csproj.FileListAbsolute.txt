@@ -6,3 +6,11 @@ C:\Users\degty\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csp
 C:\Users\degty\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.exe
 C:\Users\degty\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.pdb
 C:\Users\degty\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.exe.config
+E:\Study\c#\Делегаты\Животные\ConsoleApp22\obj\Debug\ConsoleApp22.csproj.AssemblyReference.cache
+E:\Study\c#\Делегаты\Животные\ConsoleApp22\obj\Debug\ConsoleApp22.exe.config
+E:\Study\c#\Делегаты\Животные\ConsoleApp22\obj\Debug\ConsoleApp22.csproj.CoreCompileInputs.cache
+E:\Study\c#\Делегаты\Животные\ConsoleApp22\obj\Debug\ConsoleApp22.exe
+E:\Study\c#\Делегаты\Животные\ConsoleApp22\obj\Debug\ConsoleApp22.pdb
+E:\Study\c#\Делегаты\Животные\ConsoleApp22\bin\Debug\ConsoleApp22.exe.config
+E:\Study\c#\Делегаты\Животные\ConsoleApp22\bin\Debug\ConsoleApp22.exe
+E:\Study\c#\Делегаты\Животные\ConsoleApp22\bin\Debug\ConsoleApp22.pdb
