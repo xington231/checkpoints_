@@ -1,4 +1,2 @@
-<img width="1227" height="660" alt="image" src="https://github.com/user-attachments/assets/efebf7d4-a10e-43ce-bdec-1c1f23933178" />
-Сделала так,чтобы пользователь получал ошибку при делении на ноль
-
-
+Программа имеет класс Pair который хранит пару типов T и U,он может работать только с типами class и имеет Swap, который меняет местами значения пары.
+<img width="461" height="94" alt="image" src="https://github.com/user-attachments/assets/714674fc-c6cd-48bd-a41c-55ea40b83665" />
