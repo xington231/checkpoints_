@@ -1,4 +1,3 @@
-<img width="1227" height="660" alt="image" src="https://github.com/user-attachments/assets/efebf7d4-a10e-43ce-bdec-1c1f23933178" />
-Сделала так,чтобы пользователь получал ошибку при делении на ноль
-
+Программа имеет класс калькулятор,с ограничением ,чтобы он мог работать только с типами, которые имеют parameterless конструктор (new()),имеет методы Add,который складывает два значения с типом T,и метод, который возвращает нулевое значение типа T
+<img width="317" height="130" alt="image" src="https://github.com/user-attachments/assets/b2a116e6-cbfa-43f9-a2c7-beb3cbc8ec94" />
 
