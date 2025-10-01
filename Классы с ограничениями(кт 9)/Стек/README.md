@@ -1,4 +1,2 @@
-<img width="1227" height="660" alt="image" src="https://github.com/user-attachments/assets/efebf7d4-a10e-43ce-bdec-1c1f23933178" />
-Сделала так,чтобы пользователь получал ошибку при делении на ноль
-
-
+Программа реализует структуру данных стек и имеет ограничение,чтобы он мог работать только с типами, которые реализуют интерфейс IComparable<T>,а также есть метод T Max ,который возвращает максимальный элемент стека с помощью интерфейса IComparable<T>
+<img width="480" height="123" alt="image" src="https://github.com/user-attachments/assets/4deec71e-4ece-47c7-8a8f-ce1893412af1" />
