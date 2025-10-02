@@ -1,4 +1,2 @@
-<img width="1227" height="660" alt="image" src="https://github.com/user-attachments/assets/efebf7d4-a10e-43ce-bdec-1c1f23933178" />
-Сделала так,чтобы пользователь получал ошибку при делении на ноль
-
-
+С помощью программы можно создавать списки с покупателями и продуктами,добавлять ,удалять элементы списков,найти по свойству id,вывести все элементы списка
+<img width="464" height="198" alt="image" src="https://github.com/user-attachments/assets/d8633cc1-ffc4-40c1-843d-653cba208694" />
