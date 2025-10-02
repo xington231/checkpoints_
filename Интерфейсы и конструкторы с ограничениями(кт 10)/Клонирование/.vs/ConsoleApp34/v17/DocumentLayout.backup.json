@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\degty\\source\\repos\\ConsoleApp34\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03B4E8C5-4036-42AA-907B-F85F4A82EBB0}|ConsoleApp34\\ConsoleApp34.csproj|c:\\users\\degty\\source\\repos\\consoleapp34\\consoleapp34\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B4E8C5-4036-42AA-907B-F85F4A82EBB0}|ConsoleApp34\\ConsoleApp34.csproj|solutionrelative:consoleapp34\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\degty\\source\\repos\\ConsoleApp34\\ConsoleApp34\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp34\\Program.cs",
+              "ToolTip": "C:\\Users\\degty\\source\\repos\\ConsoleApp34\\ConsoleApp34\\Program.cs",
+              "RelativeToolTip": "ConsoleApp34\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwD8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:56:24.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
