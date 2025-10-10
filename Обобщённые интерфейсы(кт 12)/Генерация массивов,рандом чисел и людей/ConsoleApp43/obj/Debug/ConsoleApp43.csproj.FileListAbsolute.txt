@@ -1,0 +1,8 @@
+C:\Users\degty\source\repos\ConsoleApp43\ConsoleApp43\bin\Debug\ConsoleApp43.exe.config
+C:\Users\degty\source\repos\ConsoleApp43\ConsoleApp43\bin\Debug\ConsoleApp43.exe
+C:\Users\degty\source\repos\ConsoleApp43\ConsoleApp43\bin\Debug\ConsoleApp43.pdb
+C:\Users\degty\source\repos\ConsoleApp43\ConsoleApp43\obj\Debug\ConsoleApp43.csproj.AssemblyReference.cache
+C:\Users\degty\source\repos\ConsoleApp43\ConsoleApp43\obj\Debug\ConsoleApp43.csproj.CoreCompileInputs.cache
+C:\Users\degty\source\repos\ConsoleApp43\ConsoleApp43\obj\Debug\ConsoleApp43.exe
+C:\Users\degty\source\repos\ConsoleApp43\ConsoleApp43\obj\Debug\ConsoleApp43.pdb
+C:\Users\degty\source\repos\ConsoleApp43\ConsoleApp43\obj\Debug\ConsoleApp43.exe.config
