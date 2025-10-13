@@ -1,2 +1,2 @@
-Программа создает две точки с координатами ,выполняет перегрузку арифметических операторов,сравнивает точки их на равенство и перегрузку операторов true и false 
-<img width="806" height="442" alt="image" src="https://github.com/user-attachments/assets/550a47a8-856b-4d1e-9d7f-105d05b3a6c4" />
+<img width="619" height="251" alt="image" src="https://github.com/user-attachments/assets/e38f22ac-35ae-4af2-8954-cbb46cfaef62" />
+Программа выводит столицу и численность ,введенной пользователем ,страны ,если она есть в словарях
