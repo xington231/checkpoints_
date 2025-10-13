@@ -1,2 +1,2 @@
-Программа реализует структуру данных стек и имеет ограничение,чтобы он мог работать только с типами, которые реализуют интерфейс IComparable<T>,а также есть метод T Max ,который возвращает максимальный элемент стека с помощью интерфейса IComparable<T>
-<img width="480" height="123" alt="image" src="https://github.com/user-attachments/assets/4deec71e-4ece-47c7-8a8f-ce1893412af1" />
+Программа выводит значения любого массива через запятую,в классе книг переопределяется метод ToString
+<img width="589" height="109" alt="image" src="https://github.com/user-attachments/assets/3f9a5a22-93cf-40d0-b9d3-dde7e0fca8fe" />
