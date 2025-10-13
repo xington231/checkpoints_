@@ -10,6 +10,10 @@ namespace ConsoleApp39
     {
         void Print();   
     }
+    public interface IPrintableStruct<T> where T : struct
+    {
+        void Print();
+    }
     public class Student: IPrintable<Student>
     {
         public string Name;
@@ -26,7 +30,7 @@ namespace ConsoleApp39
             Console.WriteLine($"Имя = {Name}, Возраст = {Age}, Класс = {Grade}");
         }
     }
-    public class Vector : IPrintable<Vector>
+    public struct Vector : IPrintableStruct<Vector>
     {
         public int X;
         public int Y;

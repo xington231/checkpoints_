@@ -1,0 +1,8 @@
+C:\Users\degty\source\repos\ConsoleApp46\ConsoleApp46\bin\Debug\ConsoleApp46.exe.config
+C:\Users\degty\source\repos\ConsoleApp46\ConsoleApp46\bin\Debug\ConsoleApp46.exe
+C:\Users\degty\source\repos\ConsoleApp46\ConsoleApp46\bin\Debug\ConsoleApp46.pdb
+C:\Users\degty\source\repos\ConsoleApp46\ConsoleApp46\obj\Debug\ConsoleApp46.csproj.AssemblyReference.cache
+C:\Users\degty\source\repos\ConsoleApp46\ConsoleApp46\obj\Debug\ConsoleApp46.csproj.CoreCompileInputs.cache
+C:\Users\degty\source\repos\ConsoleApp46\ConsoleApp46\obj\Debug\ConsoleApp46.exe
+C:\Users\degty\source\repos\ConsoleApp46\ConsoleApp46\obj\Debug\ConsoleApp46.pdb
+C:\Users\degty\source\repos\ConsoleApp46\ConsoleApp46\obj\Debug\ConsoleApp46.exe.config
