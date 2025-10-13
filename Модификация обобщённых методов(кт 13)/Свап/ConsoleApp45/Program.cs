@@ -26,9 +26,13 @@ namespace ConsoleApp45
         {
             T temp = x; x = y; y = temp;
         }
-        public static void SwapWithConstraints<T>(ref T x,ref T y)where T : class
+        public static void SwapClass<T>(ref T x,ref T y)where T : class
         {
             T temp=x; x=y; y=temp;
+        }
+        public static void SwapStruct<T>(ref T x, ref T y) where T : struct
+        {
+            T temp = x; x = y; y = temp;
         }
         static void Main(string[] args)
         {
@@ -48,7 +52,7 @@ namespace ConsoleApp45
             Person Alina = new Person("Алина",18);
             Person Vladimir = new Person("Владимир", 32);
             Console.WriteLine($"До замены: {Alina}, {Vladimir}");
-            SwapWithConstraints(ref Alina, ref Vladimir);
+            SwapClass(ref Alina, ref Vladimir);
             Console.WriteLine($"После замены: {Alina}, {Vladimir}");
         }
     }

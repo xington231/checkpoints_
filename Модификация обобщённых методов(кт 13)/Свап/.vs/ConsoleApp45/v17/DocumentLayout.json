@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\degty\\source\\repos\\ConsoleApp45\\",
+  "WorkspaceRootPath": "E:\\Study\\c#\\\u041C\u043E\u0434\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u044F \u043E\u0431\u043E\u0431\u0449\u0451\u043D\u043D\u044B\u0445 \u043C\u0435\u0442\u043E\u0434\u043E\u0432(\u043A\u0442 13)\\\u0421\u0432\u0430\u043F\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4581B626-FA2E-4AEE-A0E6-889A2E570784}|ConsoleApp45\\ConsoleApp45.csproj|c:\\users\\degty\\source\\repos\\consoleapp45\\consoleapp45\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4581B626-FA2E-4AEE-A0E6-889A2E570784}|ConsoleApp45\\ConsoleApp45.csproj|e:\\study\\c#\\\u043C\u043E\u0434\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u044F \u043E\u0431\u043E\u0431\u0449\u0451\u043D\u043D\u044B\u0445 \u043C\u0435\u0442\u043E\u0434\u043E\u0432(\u043A\u0442 13)\\\u0441\u0432\u0430\u043F\\consoleapp45\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4581B626-FA2E-4AEE-A0E6-889A2E570784}|ConsoleApp45\\ConsoleApp45.csproj|solutionrelative:consoleapp45\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\degty\\source\\repos\\ConsoleApp45\\ConsoleApp45\\Program.cs",
+              "DocumentMoniker": "E:\\Study\\c#\\\u041C\u043E\u0434\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u044F \u043E\u0431\u043E\u0431\u0449\u0451\u043D\u043D\u044B\u0445 \u043C\u0435\u0442\u043E\u0434\u043E\u0432(\u043A\u0442 13)\\\u0421\u0432\u0430\u043F\\ConsoleApp45\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp45\\Program.cs",
-              "ToolTip": "C:\\Users\\degty\\source\\repos\\ConsoleApp45\\ConsoleApp45\\Program.cs",
+              "ToolTip": "E:\\Study\\c#\\\u041C\u043E\u0434\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u044F \u043E\u0431\u043E\u0431\u0449\u0451\u043D\u043D\u044B\u0445 \u043C\u0435\u0442\u043E\u0434\u043E\u0432(\u043A\u0442 13)\\\u0421\u0432\u0430\u043F\\ConsoleApp45\\Program.cs",
               "RelativeToolTip": "ConsoleApp45\\Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAqwC8AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAA+wDcAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T14:06:30.126Z",
               "EditorCaption": ""
