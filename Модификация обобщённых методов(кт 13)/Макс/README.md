@@ -1,2 +1,2 @@
-Программа реализует структуру данных стек и имеет ограничение,чтобы он мог работать только с типами, которые реализуют интерфейс IComparable<T>,а также есть метод T Max ,который возвращает максимальный элемент стека с помощью интерфейса IComparable<T>
-<img width="480" height="123" alt="image" src="https://github.com/user-attachments/assets/4deec71e-4ece-47c7-8a8f-ce1893412af1" />
+Программа может принять два разных объекта и сравнить их с помощью обобщенного метода CompareTo,возвращает максимальный объект
+<img width="331" height="108" alt="image" src="https://github.com/user-attachments/assets/b7585121-88d3-49e6-bfec-97fd3729fd3b" />
