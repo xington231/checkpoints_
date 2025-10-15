@@ -1,0 +1,8 @@
+C:\Users\degty\source\repos\ConsoleApp52\ConsoleApp52\obj\Debug\ConsoleApp52.csproj.AssemblyReference.cache
+C:\Users\degty\source\repos\ConsoleApp52\ConsoleApp52\obj\Debug\ConsoleApp52.csproj.CoreCompileInputs.cache
+C:\Users\degty\source\repos\ConsoleApp52\ConsoleApp52\bin\Debug\ConsoleApp52.exe.config
+C:\Users\degty\source\repos\ConsoleApp52\ConsoleApp52\bin\Debug\ConsoleApp52.exe
+C:\Users\degty\source\repos\ConsoleApp52\ConsoleApp52\bin\Debug\ConsoleApp52.pdb
+C:\Users\degty\source\repos\ConsoleApp52\ConsoleApp52\obj\Debug\ConsoleApp52.exe
+C:\Users\degty\source\repos\ConsoleApp52\ConsoleApp52\obj\Debug\ConsoleApp52.pdb
+C:\Users\degty\source\repos\ConsoleApp52\ConsoleApp52\obj\Debug\ConsoleApp52.exe.config
