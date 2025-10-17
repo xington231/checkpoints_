@@ -1,0 +1,7 @@
+C:\Users\degty\source\repos\ConsoleApp58\ConsoleApp58\bin\Debug\ConsoleApp58.exe.config
+C:\Users\degty\source\repos\ConsoleApp58\ConsoleApp58\bin\Debug\ConsoleApp58.exe
+C:\Users\degty\source\repos\ConsoleApp58\ConsoleApp58\bin\Debug\ConsoleApp58.pdb
+C:\Users\degty\source\repos\ConsoleApp58\ConsoleApp58\obj\Debug\ConsoleApp58.csproj.AssemblyReference.cache
+C:\Users\degty\source\repos\ConsoleApp58\ConsoleApp58\obj\Debug\ConsoleApp58.csproj.CoreCompileInputs.cache
+C:\Users\degty\source\repos\ConsoleApp58\ConsoleApp58\obj\Debug\ConsoleApp58.exe
+C:\Users\degty\source\repos\ConsoleApp58\ConsoleApp58\obj\Debug\ConsoleApp58.pdb
